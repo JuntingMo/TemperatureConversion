@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature Conversion</string>
+    <string name="menu_about">ABOUT</string>
+    <string name="about_msg">Tempreature Conversion for Celsius(C).\n
+        Fahrenheit(F) and Kelvin(K).
+    </string>
+    <string name="bmi_warning">Height/Weight cannot be empty.</string>
+
+    <string-array name="mode_array">
+        <item>Celsius(C)</item>
+        <item>Fahrenhrit(F)</item>
+        <item>Kelvin(K)</item>
+    </string-array>
+</resources>
